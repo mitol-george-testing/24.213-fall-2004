@@ -1,0 +1,32 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Fine Arts",
+      "Visual Arts",
+      "Film and Video"
+    ],
+    [
+      "Humanities",
+      "Philosophy"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "958bc8cc-5744-f2d8-26a7-d083922b71d4"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Philosophy of Film",
+  "course_description": "This course is a seminar on the philosophical analysis of film art, with an emphasis on the ways in which it creates meaning through techniques that define a formal structure. There is a particular focus on aesthetic problems about appearance and reality, literary and visual effects, communication and alienation through film technology.\n",
+  "department_numbers": [
+    "24"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "24.213",
+  "learning_resource_types": [
+    "Lecture Videos",
+    "Written Assignments with Examples"
+  ],
+  "title": "Course Metadata"
+}
